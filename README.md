@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/he
 - 🎭 Intending to focus on the design area,
 
-/ᐠ- ˕ -マ ~
+/ᐠ- ˕ -マฅ ~
 
 <!---
 Vyenvyy/Vyenvyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
