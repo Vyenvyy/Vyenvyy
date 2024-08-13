@@ -1,10 +1,10 @@
-→ Heey!! 😸 Welcome to my profile
+→ Heey!! 😸 Welcome to my profile.
 - I’m Ana, student in the field of programming.
 
 - 🎨 Passionate about art and new creations!
 - 🎉 I’m currently learning systems development.
-- 😄 Pronouns: she/he
-- 🎭 Intending to focus on the design area,
+- 😄 Pronouns: she/he.
+- 🎭 Intending to focus on the design area.
 
 /ᐠ- ˕ -マฅ ~
 
