@@ -1,5 +1,5 @@
 → Heey!! 😸 Welcome to my profile
-  I’m Ana, student in the field of programming.
+- I’m Ana, student in the field of programming.
 
 - 🎨 Passionate about art and new creations!
 - 🎉 I’m currently learning systems development.
