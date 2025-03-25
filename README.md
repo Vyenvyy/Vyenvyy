@@ -40,10 +40,10 @@
 ###
 
 <div align="center">
-  <a href="instagram.com/vyenvyy" target="_blank">
+  <a href="https://instagram.com/vyenvyy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=83ae2b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="discord.com/eomosquito" target="_blank">
+  <a href="https://discord.com/eomosquito" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=83ae2b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
